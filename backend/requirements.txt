@@ -1,0 +1,9 @@
+# backend/requirements.txt
+
+fastapi
+numpy
+transformers
+pillow
+torch 
+python-multipart
+uvicorn
